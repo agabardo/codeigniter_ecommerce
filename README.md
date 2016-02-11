@@ -6,3 +6,7 @@ Os arquivos deste repositório se destinam apenas para fins de estudo e não dev
 http://www.novatec.com.br/livros/ecommercecodeigniter/
 
 <img src="https://ademirgabardo.files.wordpress.com/2016/02/screenshot-2016-02-11-20-29-31.png" alt=""/>
+
+Encontrou erros no código? Tem uma sugestão melhor para gerar boletos? Gostaria de compartilhar com a comunidade? Mande e-mail para ademir.gabbardo (at) gmail.com. Se sua sugestão for valida (se enquadrar no que foi proposto no livro) podemos criar um Fork adicionando o código. 
+
+Obs. Ao mandar e-mail, por favor, tenha em mente que não consigo responder a todos rapidamente, como doutorando meu dia parece ter apenas 4 horas e não 24. Me reservo ao direito de não responder todos os e-mails. 
