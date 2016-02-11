@@ -1,5 +1,5 @@
 -- MySQL Administrator dump 1.4
---
+-- ATUALIZADO EM 11 de FEV de 2016, por Ademir Gabardo.
 -- ------------------------------------------------------
 -- Server version	5.6.16-log
 
