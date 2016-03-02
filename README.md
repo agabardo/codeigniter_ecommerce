@@ -11,4 +11,4 @@ Encontrou erros no código? Tem uma sugestão melhor para gerar boletos? Gostari
 
 <img src="http://www.novatec.com.br/livros/ecommercecodeigniter/capa_ampliada9788575224571.jpg" alt=""/>
 
-Obs. Ao mandar e-mail, por favor, tenha em mente que não consigo responder a todos rapidamente, como doutorando meu dia parece ter apenas 4 horas e não 24. Me reservo ao direito de não responder todos os e-mails. 
+Obs. Ao mandar e-mail, por favor, tenha em mente que não consigo responder a todos rapidamente, como doutorando meu dia parece ter apenas 4 horas e não 24. Me reservo ao direito de não responder todos os e-mails. Obrigado!
