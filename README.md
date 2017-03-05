@@ -5,11 +5,7 @@ Os arquivos deste repositório se destinam apenas para fins de estudo e não dev
 
 http://www.novatec.com.br/livros/ecommercecodeigniter/
 
-<img src="https://ademirgabardo.files.wordpress.com/2016/02/screenshot-2016-02-11-20-29-31.png" alt=""/>
-
-Encontrou erros no código? Tem uma sugestão melhor para gerar boletos? Gostaria de compartilhar com a comunidade? Mande e-mail para ademir.gabbardo (at) gmail.com. Se sua sugestão for valida (se enquadrar no que foi proposto no livro) podemos criar um Fork adicionando o código. 
-
-<img style='width:200px' src="http://www.novatec.com.br/livros/ecommercecodeigniter/capa_ampliada9788575224571.jpg" alt=""/>
+<img src="https://s3.novatec.com.br/capas-ampliadas/capa-ampliada-9788575224571.jpg" alt=""/>
 
 #Como istalar?
 Preferencialmente clone este repositorio usando 
