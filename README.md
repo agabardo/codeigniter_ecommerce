@@ -7,6 +7,10 @@ http://www.novatec.com.br/livros/ecommercecodeigniter/
 
 <img src="https://s3.novatec.com.br/capas-ampliadas/capa-ampliada-9788575224571.jpg" alt=""/>
 
+##Outros livros do mesmo autor.
+<a href='http://www.novatec.com.br/autores/gabardo.php'>
+<img src="https://raw.githubusercontent.com/agabardo/ola-mundo/ea55f49724e01e7c28a83cd2fb2d55b2d41f8c58/public/img/imagens-github/capas.jpg" alt="Capas livros Ademir Gabardo" /></a>
+
 #Como istalar?
 Preferencialmente clone este repositorio usando 
 
