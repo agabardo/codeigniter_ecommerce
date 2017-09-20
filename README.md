@@ -7,12 +7,18 @@ http://www.novatec.com.br/livros/ecommercecodeigniter/
 
 <img src="https://s3.novatec.com.br/capas-ampliadas/capa-ampliada-9788575224571.jpg" alt=""/>
 
-##Outros livros do mesmo autor.
+## Opinião dos leitores.
+<img src='https://raw.githubusercontent.com/agabardo/codeigniter_ecommerce/master/Screenshot%202017-09-21%2008.53.14.png' alt='leitores' width='90%'/><br/>
+<img src='https://raw.githubusercontent.com/agabardo/codeigniter_ecommerce/master/Screenshot%202017-09-21%2008.53.54.png' alt='leitores' width='90%'/><br/>
+<img src='https://raw.githubusercontent.com/agabardo/codeigniter_ecommerce/master/Screenshot%202017-09-21%2008.54.07.png' alt='leitores' width='90%'/><br/>
+Veja mais opiniões ou faça sua avaliação no site da editora: http://www.novatec.com.br/livros/ecommercecodeigniter/
+
+## Outros livros do mesmo autor.
 <a href='http://www.novatec.com.br/autores/gabardo.php'>
 <img src="https://raw.githubusercontent.com/agabardo/ola-mundo/ea55f49724e01e7c28a83cd2fb2d55b2d41f8c58/public/img/imagens-github/capas.jpg" alt="Capas livros Ademir Gabardo" /></a>
 
-#Como istalar?
-Preferencialmente clone este repositorio usando 
+# Como istalar?
+Preferencialmente clone este repositorio usando <br/>
 
 $git clone https://github.com/agabardo/codeigniter_ecommerce.git
 
